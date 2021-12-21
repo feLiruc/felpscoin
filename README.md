@@ -1,0 +1,2 @@
+# felpscoin
+My first cryptocurrency.
